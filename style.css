@@ -1,0 +1,30 @@
+@import "http://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic";
+
+body,table,td {
+	font-family:"Open Sans";
+	font-size:12px;
+	color: #333;
+	padding:0;
+	background-color:white;
+}
+
+body { background:url('/bg.png'); }
+
+a {
+	font-weight:bold;
+	text-decoration:none;
+	color:#008;
+}
+
+div.contents { 
+	width:800px; 
+	margin-left:auto; 
+	margin-right:auto; 
+	box-shadow:0 0 5px #969696; 
+	-webkit-box-shadow:0 0 5px #969696; 
+	-moz-box-shadow:0 0 5px #969696; 
+}
+
+table.inlay td { padding:5px; }
+
+span.title { font-size:18px; }

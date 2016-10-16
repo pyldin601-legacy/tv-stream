@@ -1,0 +1,4 @@
+RewriteEngine on
+
+RewriteRule ^tv/(.*)\.flv$ tvstream.php?ch=$1&%{QUERY_STRING}
+RewriteRule ^ch-(\d*)$ index.php?ch=$1&%{QUERY_STRING}

@@ -1,0 +1,14 @@
+ffmpeg version 2.1.1 Copyright (c) 2000-2013 the FFmpeg developers
+  built on Jan 13 2014 17:37:34 with gcc 4.2.1 (GCC) 20070831 patched [FeeBSD]
+  configuration: --enable-libaacplus --disable-indev=alsa --disable-outdev=alsa --disable-libopencore-amrnb --disable-libopencore-amrwb --disable-libass --disable-libcdio --disable-libcelt --enable-libfaac --disable-libfdk-aac --enable-ffserver --enable-fontconfig --enable-libfreetype --enable-frei0r --enable-gnutls --disable-libgsm --enable-iconv --disable-indev=jack --enable-libmp3lame --enable-libbluray --disable-libv4l2 --disable-indev=v4l2 --disable-outdev=v4l2 --enable-libmodplug --disable-openal --disable-indev=openal --enable-libopencv --disable-libopenjpeg --disable-libopus --disable-libpulse --disable-indev=pulse --disable-outdev=pulse --enable-librtmp --enable-libschroedinger --disable-libspeex --enable-libtheora --disable-vaapi --disable-vdpau --enable-libvorbis --disable-libvo-aacenc --disable-libvo-amrwbenc --enable-libvpx --enable-libx264 --enable-libxvid --prefix=/usr/local --mandir=/usr/local/man --datadir=/usr/local/share/ffmpeg --enable-shared --enable-gpl --enable-postproc --enable-avfilter --enable-avresample --enable-pthreads --enable-memalign-hack --disable-libstagefright-h264 --disable-libutvideo --disable-libsoxr --cc=cc --extra-cflags='-msse -I/usr/local/include/vorbis -I/usr/local/include' --extra-ldflags='-L/usr/local/lib ' --extra-libs=-pthread --disable-debug --disable-ffplay --disable-outdev=sdl --enable-nonfree
+  libavutil      52. 48.101 / 52. 48.101
+  libavcodec     55. 39.101 / 55. 39.101
+  libavformat    55. 19.104 / 55. 19.104
+  libavdevice    55.  5.100 / 55.  5.100
+  libavfilter     3. 90.100 /  3. 90.100
+  libavresample   1.  1.  0 /  1.  1.  0
+  libswscale      2.  5.101 /  2.  5.101
+  libswresample   0. 17.104 /  0. 17.104
+  libpostproc    52.  3.100 / 52.  3.100
+udp://239.102.0.2:5004: Immediate exit requested
+Received signal 15: terminating.
